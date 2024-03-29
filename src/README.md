@@ -1,1 +1,1 @@
-Prolog programs Principles of Programming Langauges
+Prolog programs from Principles of Programming Langauges
